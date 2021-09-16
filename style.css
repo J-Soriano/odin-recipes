@@ -14,7 +14,18 @@
   width: 200px;
 }
 
-div{
+.food-photo {
+  display:block;
+  border: 5px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 200px;
+}
+
+
+
+div {
   text-align: center;
 
 }
@@ -35,10 +46,14 @@ div ul{
   text-align: left;
   margin-top: 16px;
 }
+div ol{
+  display: inline-block;
+  text-align: left;
+  margin-top: 16px;
+}
 
 div footer {
   position: absolute;
   width: 100%;
   bottom: 0;
-  
 }
