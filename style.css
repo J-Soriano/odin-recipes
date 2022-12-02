@@ -24,6 +24,10 @@
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a988e2723a5985c18dd22df0843ddfc73c511515
 div {
   text-align: center;
 
@@ -59,10 +63,19 @@ div ol{
 li {
   padding-bottom: 1rem;
 }
+div ol{
+  display: inline-block;
+  text-align: left;
+  margin-top: 16px;
+}
 
 div footer {
   position: absolute;
   width: 100%;
+<<<<<<< HEAD
   bottom: .5rem;
   font-size: 1.25rem;
+=======
+  bottom: 0;
+>>>>>>> a988e2723a5985c18dd22df0843ddfc73c511515
 }
